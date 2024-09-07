@@ -1,11 +1,11 @@
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "akzidenz-grotesk_pro_regular",
-    sans-serif;
-  color: #333;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  color: black;
   font-size: 10pt;
+  background-color: white;
 }
 h2 {
-  color: #0c0c0c;
+  color: #900;
   margin-bottom: 6px;
   margin-top: 22px;
 }
@@ -14,16 +14,16 @@ h3 {
   margin: 2px 0;
 }
 .container {
-  max-width: 1300px;
+  max-width: 1305px;
   min-width: 650px;
   width: 100%;
   margin: 0 auto;
 }
 .name {
   float: left;
-  color: #0c0c0c;
-  font-family: verdana;
-  font-size: 35pt;
+  color: #900;
+  font-size: 2em;
+  font-weight: bold;
 }
 .contact {
   margin: 10px;
@@ -67,7 +67,7 @@ h3 {
   text-align: center;
   font-size: 12pt;
   font-weight: 600;
-  color: #17191a;
+  color: black;
 }
 .boxRightInner {
   margin: 10px;
